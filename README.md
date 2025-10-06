@@ -1,4 +1,4 @@
-# 🚀 Azure Static Web Apps Resources
+# 🚀 Azure Static Web Apps
 
 ✨ This README gives you quick access to official Azure resources and tutorials for **Azure Static Web Apps**.
 
