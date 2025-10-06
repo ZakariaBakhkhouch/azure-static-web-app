@@ -10,7 +10,7 @@
 
 ---
 
-## 🎥 Video Resources
+## 🎥 Learning Resources
 - ▶️ [Introduction to Azure Static Web Apps](https://www.youtube.com/watch?v=igkqYNnO8Xg)  
 - ▶️ [Deploying Apps to Azure](https://www.youtube.com/watch?v=MQdIiJh6AGc)  
 - ▶️ [Getting Started Guide](https://www.youtube.com/watch?v=uGcPVg_iaj4)
